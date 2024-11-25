@@ -11,6 +11,8 @@ University of Georgia.
 Attempts have been made to produce palettes that are friendly to deuteranopia, the most common type of red/green color blindness. 
 Please cite/acknowledge this repository if used. 
 
+[![DOI](https://zenodo.org/badge/893684648.svg)](https://doi.org/10.5281/zenodo.14213875)
+
 Please also explore other palette collections. 
 
 * [viridis](https://github.com/sjmgarnier/viridis)
