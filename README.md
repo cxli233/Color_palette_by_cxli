@@ -171,8 +171,11 @@ datasets::ChickWeight %>%
   geom_point(position = position_jitter(seed = 666, width = 0.1),
              shape = 21, color = "grey20",
              aes(fill = Diet), size = 2.5, alpha = 0.8) +
+  stat_summary(geom = "point", shape = 4, size = 3, fun.data = "mean_se") +
+  stat_summary(geom = "linerange", fun.data = "mean_se") +
   scale_fill_manual(values = frieren1[c(1, 2, 3, 8)]) +
-  labs(title = "Effect of 4 diets on chicken growth") +
+  labs(title = "Effect of 4 diets on chicken growth",
+       caption = "x = mean; errorbar = SE") +
   theme_classic()
 ```
 ![Example1](https://github.com/cxli233/Color_palette_by_cxli/blob/main/Results/example1.png)
