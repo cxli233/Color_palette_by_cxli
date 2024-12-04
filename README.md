@@ -29,8 +29,11 @@ Please also explore other palette collections.
 7. Frieren 3 - that scene 
 8. Ubel 
 9. Yu-Gi-Oh - "the Three Egyptian Gods"
-10. Example usage
-11. Summary
+10. Bird of paradise
+11. Love in a mist
+12. Blue iris 
+13. Example usage
+14. Summary
 
 # Wisteria 
 ![wisteria](https://github.com/cxli233/Color_palette_by_cxli/blob/main/Data/wisteria_home_depot.jpg) 
@@ -152,6 +155,45 @@ YGO <- c("#0E1118", "#DC383A", "#A90C1B", "#FED568", "#C48233", "#84C4EF", "#1D4
 ```
 
 ![YGO Gods color set](https://github.com/cxli233/Color_palette_by_cxli/blob/main/Results/YGO.png)
+
+# Bird of paradise
+The bird of paradise plants have colorful flowers.
+
+![Bird of Paradise flower](https://github.com/cxli233/Color_palette_by_cxli/blob/main/Data/Bird_of_Paradise.jpg) 
+
+Photo credit: [Domenico Salvagnin from Legnaro, Italy](https://en.wikipedia.org/wiki/File:Bird_of_Paradise_(2367720567).jpg). 
+
+```r
+bop <- c("#BB4C45", "#9C81A4", "#5D69D5", "#23369D", "#883C7A", "#FF8600", "#FFC4D6", "#E75001")
+```
+
+![bop color set](https://github.com/cxli233/Color_palette_by_cxli/blob/main/Results/bop.png)
+
+# Love in a mist
+Love-in-a-mist (Nigella damascena) has beautiful blue flowers. 
+
+![Love-in-a-mist on the side of a road](https://github.com/cxli233/Color_palette_by_cxli/blob/main/Data/love-in-a-mist.JPG)
+
+Photo credit: Chenxin Li, taken at UC Davis. 
+
+```r
+liam <- c("#354099", "#C0C9F6", "#64296F", "#955996", "#C8D49D", "#5B6555", "#A39E9D")
+```
+
+![liam color set](https://github.com/cxli233/Color_palette_by_cxli/blob/main/Results/liam.png)
+
+# Blue iris 
+This color palette is inspired by blue iris plants I found at UC Davis in 2017. 
+
+![Blue iris](https://github.com/cxli233/Color_palette_by_cxli/blob/main/Data/blue_iris.JPG)
+
+Photo credit: Chenxin Li, taken at UC Davis. 
+
+```r
+bir <- c("#5952C4", "#918CFE", "#DEDDFF", "#FFFF4C", "#CCA933", "#5A834E", "#77998E")
+```
+
+![blue iris color set](https://github.com/cxli233/Color_palette_by_cxli/blob/main/Results/bir.png)
 
 # Example usage
 The easiest way to deploy the color sets is copying the hex. For example: 
