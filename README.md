@@ -1,9 +1,7 @@
 # Color palettes by cxLi
 A collection of color palettes inspired by plants and pop culture.  
 
-* Author: Chenxin Li, Ph.D., 
-Assistant Research Scientist at Department of Crop & Soil Sciences and Center for Applied Genetic Technologies, 
-University of Georgia.
+* Author: Chenxin Li, Ph.D., Assistant Professor at Department of Plant Biology, Michigan State University.  
 * Contact: lichen27@msu.edu | [@chenxinli2.bsky.social](https://bsky.app/profile/chenxinli2.bsky.social)
 
 ![Display all color sets](https://github.com/cxli233/Color_palette_by_cxli/blob/main/Results/show_all.png)
